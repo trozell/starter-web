@@ -1,6 +1,7 @@
 # Starter Web project
 
 This repository is for showing how Git and GitHub work
+and making content changes and commiting those changes
 
 ## Introduction
 
