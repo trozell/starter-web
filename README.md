@@ -12,6 +12,7 @@ Adding multiple changes, and committing, and pushing to origin
 Adding details to the purpose of these changes
 
 ## How to Contribute
-
+Contribute additions to the file changes for GIT
 
 ## Deployment
+Deployment addtions to the file changes for GIT
