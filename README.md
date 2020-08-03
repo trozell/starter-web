@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 and making content changes and commiting those changes
 
+Adding a line for rebasing example
+
 ## Introduction
 
 Sample website with plenty of files for demos
