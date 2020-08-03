@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 and making content changes and commiting those changes
 
-Adding a line for rebasing example
+Adding a line for rebasing example, more changes from my
+feature myfeature branch
 
 ## Introduction
 
