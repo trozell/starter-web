@@ -12,7 +12,8 @@ Adding multiple changes, and committing, and pushing to origin
 Adding details to the purpose of these changes
 
 ## How to Contribute
-Contribute additions to the file changes for GIT
+Please fork this repository and then issue Pull Request for 
+review.
 
 ## Deployment
 Deployment addtions to the file changes for GIT
