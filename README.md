@@ -16,3 +16,6 @@ Contribute additions to the file changes for GIT
 
 ## Deployment
 Deployment addtions to the file changes for GIT
+
+### Copyright
+@2020 - GIT Training - Copyright Notice
