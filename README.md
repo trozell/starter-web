@@ -22,4 +22,4 @@ review.
 Deployment addtions to the file changes for GIT
 
 ### Copyright
-@2020 - GIT Training - Copyright Notice
+@2020 - GIT Training - Copyright Notice A   All rights reservered.
