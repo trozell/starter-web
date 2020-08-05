@@ -6,6 +6,8 @@ and making content changes and commiting those changes
 Adding a line for rebasing example, more changes from my
 feature myfeature branch
 
+Doing an emergency fix after STASH
+
 ## Introduction
 
 Sample website with plenty of files for demos
